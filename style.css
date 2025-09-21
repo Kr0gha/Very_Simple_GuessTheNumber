@@ -1,0 +1,15 @@
+#Card{
+    border: solid 1px black ;
+    margin: 0 auto;
+    max-height: 500px;
+    max-width: 500px;
+    text-align: center;
+}
+
+h1,p{
+    color: black;
+}
+
+input{
+    margin-bottom: 5%;
+}
